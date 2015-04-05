@@ -8,7 +8,7 @@
 
 ### Web Components
 - [ ] [The Road to Web Components](https://www.youtube.com/watch?v=6peu4KporaA) (32 mins)
-- [x] [Web Components: Google I/O 13](https://www.youtube.com/watch?v=fqULJBBEVQE) (32 mins)
+- [ ] [Web Components: Google I/O 13](https://www.youtube.com/watch?v=fqULJBBEVQE) (32 mins)
 
 ### Testing
 - [ ] [Writing Testable JS](https://www.youtube.com/watch?v=OzjogCFO4Zo) (40 mins)
@@ -27,11 +27,11 @@
 - [ ] [Styling & Animating SVGs w/CSS](https://www.youtube.com/watch?v=hI9roqOKKO8) (39 mins)
 
 ### Accessibility
-- [x] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
+- [ ] [JS for Everybody](https://www.youtube.com/watch?v=04DOp1F9Od4) (29 mins)
 - [ ] [Designing for Accessibility](http://teamtreehouse.com/library/generate-london-2014/designing-for-accessibility)
 
 ### Javascript
-- [x] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
+- [ ] [Meteor.js & Famo.us](https://www.youtube.com/watch?v=bmd-cXSGQAA&feature=youtu.be)
 - [ ] [Object.observe](http://addyosmani.com/blog/the-future-of-data-binding-is-object-observe/) 
 
 ### Workflow

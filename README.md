@@ -16,8 +16,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### This Week's Goal: SVG Animation
 
 ## Things I'll Do This Week:
-- [ ] Make SVG Presentation
+- [x] Make SVG Presentation
 - [ ] Create a basic animation using Snap.SVG
+- [ ] Sketch Ideas for Letter Society Project
 - [ ] Read/watch 3 Things from my content list
 
 ### Things I'll Do This Month: April 2014
