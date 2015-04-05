@@ -6,8 +6,9 @@
 
 ### SVG
 - [ ] [Animating SVGs](http://slides.com/sarasoueidan/styling-animating-svgs-with-css?token=jCcrBSyuS6CmMQsd8Aof3TpxyZQr#/)
+- [ ] [Building Better Interfaces with SVG](http://slides.com/sarasoueidan/building-better-interfaces-with-svg#/)
 
-### ST2 
+### Sublime Text 
 - [ ] [Slides from CSS Dev Conf @wesbos](http://wesbos.github.io/Sublime-Text-Power-User-Talk)
 
 ### CSS
@@ -18,3 +19,8 @@
 
 ### Angular.js
 - [ ] [Angular 2.0](https://docs.google.com/presentation/d/1XQP0_NTzCUcFweauLlkZpbbhNVYbYy156oD--KLmXsk/preview?sle=true#slide=id.p)
+
+### Productivity
+
+- [ ] [Keyboard Ninja](http://una.github.io/keyboard-ninja-slides/#/)
+- [ ] [Jessica Hische - The Ultra-Schedule](http://jessicahische.is/thinkingthoughtsonscheduling)

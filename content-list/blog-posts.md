@@ -1,22 +1,14 @@
 # Blog Posts and Resources
 
-### Node.js
-- [ ] [Web Scraping with Node](http://elifitch.com/blog/simple-web-scraping-node/)
-- [ ] [Command Line Utilities w/Node.js](http://cruft.io/posts/node-command-line-utilities/)
-
 ### CMS
 - [ ] [Craft v Wordpress](http://viget.com/extend/craft-vs.-wordpress-the-good-the-bad-and-the-ugly-data)
 
 ### Terminal
 - [ ] [Terminal Aliases & Functions](http://ashleynolan.co.uk/blog/beginners-guide-to-terminal-aliases-and-functions)
-- [x] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
+- [ ] [Terminal Basic Commands](http://ashleynolan.co.uk/blog/getting-started-with-terminal)
 
 ### Accessibility
 - [ ] [Aria State Properties](http://www.w3.org/TR/wai-aria/states_and_properties)
-
-### Angular
-- [ ] [Angular Under the Hood](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153)
-- [ ] [Can Angular Maintain its Dominance?](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
 
 ### CSS/Sass
 - [ ] [Write Sass Plugins Like a Pro](https://medium.com/@marcmintel/write-sass-plugins-like-a-pro-c765ecf3af27)
@@ -46,12 +38,12 @@
 - [ ] [Atomic Design &mdash; Brad Frost](http://bradfrostweb.com/blog/post/atomic-web-design/)
 - [ ] [Future of Layouts &mdash; Jen Simmons](https://github.com/jensimmons/thelayoutsahead)
 
-### ST2
+### Sublime Text
 - [ ] [Sublime Text for Power Users](http://drewbarontini.com/setup/sublime-text/)
 - [ ] [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
 
 ### Flexbox
-- [ ] [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/?utm_content=bufferfbf53&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [ ] [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/?utm_content=bufferfbf53&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### Web Components
 - [ ] [Web Components on Github](https://github.com/webcomponents)
@@ -61,7 +53,9 @@
 ### Famo.us
 - [ ] [Famo.us JS Animation](http://blog.percolatestudio.com/engineering/the-future-of-javascript-animation-with-famous/)
 
-### Meteor.js
+### Angular
+- [ ] [Angular Under the Hood](https://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153)
+- [ ] [Can Angular Maintain its Dominance?](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
 
 ### Pattern Library
 - [ ] [Front End and UI Style Guides](http://sideproject.io/front-end-and-ui-style-guides/)
@@ -79,6 +73,3 @@
 
 ### Testing
 - [ ] [Visual Regression Testing](http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html)
-- [ ] [Wraith](http://responsivenews.co.uk/post/56884056177/wraith)
-- [ ] [Wraith & TravisCI](http://blog.kevinlamping.com/easy-ui-regression-testing-with-wraith-and-travisci/)
-
