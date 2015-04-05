@@ -46,6 +46,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ---
 
-- [Blog Post Ideas](https://github.com/ryanbrownhill/personal-goals/blog/master/blog-posts/blog-ideas.md)
+- [Blog Post Ideas](https://github.com/ryanbrownhill/personal-goals/blob/master/blog-posts/blog-ideas.md)
 - [Backlog Content List](https://github.com/ryanbrownhill/personal-goals/tree/master/content-list)
 
