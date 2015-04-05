@@ -1,4 +1,1 @@
-- [Eloquent Javascript](http://eloquentjavascript.net/)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
-- [Essential JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+# [My Amazon Wishlist](http://amzn.com/w/1BR9L3RABA2M2)
