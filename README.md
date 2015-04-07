@@ -13,17 +13,18 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # April 6, 2014
 
-### This Week's Goal: SVG Animation
+### This Week's Goal: Blog Design
 
 ## Things I'll Do This Week:
 - [x] Make SVG Presentation
-- [ ] Create a basic animation using Snap.SVG
-- [ ] Sketch Ideas for Letter Society Project
+- [ ] Read about Responsive Typography
+- [ ] Sketch Ideas for Blog Banner
+- [ ] Vector Idea for Banner
 - [ ] Read/watch 3 Things from my content list
 
 ### Things I'll Do This Month: April 2014
 - [ ] Design Style Tiles for Blog
-- [ ] Create Resources Page of Blog with Responsive Type
+- [ ] Create Resources Page of Blog
 - [ ] Animate something in Snap.SVG for Letter Society
 - [ ] Write a post for Snap.SVG
 - [ ] Create an Animation Mixin'
