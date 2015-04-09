@@ -40,9 +40,10 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 1. Sublime Shortcuts
 2. Become a [Keyboard Ninja](http://una.github.io/keyboard-ninja-slides/#/)
 3. Learn Sass Directives & Functions [Intro to Sass](http://una.github.io/slides-intro-to-sass/)
-4. Scss blend modes https://github.com/heygrady/scss-blend-modes
+4. [Scss blend modes](https://github.com/heygrady/scss-blend-modes)
 5. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 6. Play with [Icomoon.io](www.icomoon.io)
+
 
 
 
