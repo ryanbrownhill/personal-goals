@@ -17,8 +17,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ## Things I'll Do This Week:
 - [x] Make SVG Presentation
-- [ ] Read about Responsive Typography
-- [ ] Sketch Ideas for Blog Banner
+- [x] Read about Responsive Typography
+- [x] Sketch Ideas for Blog Banner
 - [ ] Vector Idea for Banner
 - [ ] Read/watch 3 Things from my content list
 
