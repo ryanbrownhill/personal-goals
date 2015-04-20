@@ -11,7 +11,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 3. Practice Coding Animations
 4. Get Inspired
 
-# April 6, 2014
+# April 20, 2014
 
 ### This Week's Goal: Blog Design & GSAP
 
