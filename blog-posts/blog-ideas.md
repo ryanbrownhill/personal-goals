@@ -7,4 +7,7 @@
 7. Advanced web animation with easing curves
 8. Prototyping Aniamtion with Keynote, Photoshop, Sketching on Paper etc.
 9. Good Book recommendations - Willpower instinct, etc.
+10. Chrome Canary Animation Timeline 
+11. GSAP
+12. How to run performance tests
 

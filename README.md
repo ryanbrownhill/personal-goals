@@ -13,26 +13,28 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 # April 6, 2014
 
-### This Week's Goal: Blog Design
+### This Week's Goal: Blog Design & GSAP
 
 ## Things I'll Do This Week:
-- [x] Make SVG Presentation
-- [x] Read about Responsive Typography
-- [x] Sketch Ideas for Blog Banner
-- [ ] Vector Idea for Banner
-- [ ] Read/watch 3 Things from my content list
+- [ ] Design Welcome Banner
+- [ ] Animate Banner in After Effects
+- [ ] Animate Welcome Banner with GSAP
+- [ ] Write Blog Post on GSAP
+- [ ] Design & Implement Resources Page
+- [ ] Record Podcast
+
 
 ### Things I'll Do This Month: April 2014
 - [ ] Design Style Tiles for Blog
 - [ ] Create Resources Page of Blog
-- [ ] Animate something in Snap.SVG for Letter Society
-- [ ] Write a post for Snap.SVG
-- [ ] Create an Animation Mixin'
+- [ ] Animate something in GSAP for Letter Society
+- [ ] Write a post for GSAP
 
 ### Backlog: Side Projects :)
+- [ ] Learn new Chrome Canary Animation Timeline & write blog post
 - [ ] Open Source Design
-- [ ] Create something with GSAP 
-- [ ] Create an advanced website
+- [ ] Implement Responsive Typography
+- [ ] Learn how to run performance tests
 - [ ] Animated emojis
 
 
@@ -43,7 +45,6 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 4. [Scss blend modes](https://github.com/heygrady/scss-blend-modes)
 5. Play with [Velocity.js](http://www.smashingmagazine.com/2014/06/18/faster-ui-animations-with-velocity-js/)
 6. Play with [Icomoon.io](www.icomoon.io)
-
 
 
 
